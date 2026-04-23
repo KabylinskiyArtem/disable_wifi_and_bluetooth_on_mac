@@ -1,0 +1,1 @@
+# disable_wifi_and_bluetooth_on_mac
