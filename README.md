@@ -1,1 +1,3 @@
-# disable_wifi_and_bluetooth_on_mac
+```chmod +x toggle_radios.sh```
+
+```sudo ./toggle_radios.sh```
