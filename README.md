@@ -1,3 +1,3 @@
-```chmod +x toggle_radios.sh```
+```chmod +x stealth.sh```
 
-```sudo ./toggle_radios.sh```
+```sudo ./stealth.sh```
